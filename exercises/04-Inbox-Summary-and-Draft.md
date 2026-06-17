@@ -32,13 +32,13 @@ Catch me up on my Operations email from the last few days. Group by topic; for e
 ```
 
 ### Step 2 — Thread to a coaching readout
-Open **Monthly Coaching Trends — Operations Readout** and run:
+Starting in Copilot add a forward slash and start typing in the subject **Monthly Coaching Trends — Operations Readout**  then select it and then copy in the prompt
 ```text
 Summarize this thread as a 5-bullet readout for the front-line leaders: the overall coaching trend, the Item Processing data-entry cluster, the Wire Services callback issue, the documentation-accuracy creep, and the High-severity callout. End with one line: "Coaching focus this month."
 ```
 
 ### Step 3 — Action items only
-Open **90-Day Follow-Up Items — Q2 Review** and run:
+Starting in Copilot add a forward slash and start typing in the subject  **90-Day Follow-Up Items — Q2 Review** then select it and then copy in the prompt
 ```text
 From this thread, list only the open action items as a checklist: owner, commitment, and due date. Leave out anything already resolved.
 ```
@@ -48,13 +48,13 @@ From this thread, list only the open action items as a checklist: owner, commitm
 ## Part B — Draft as a professional
 
 ### Step 4 — Reply in your voice
-Open **Vendor File Mapping — Servicing Export to Template** and run:
+Starting in Copilot add a forward slash and start typing in the subject   **Vendor File Mapping — Servicing Export to Template** then select it and then copy in the prompt
 ```text
 Draft a reply from me confirming I'll run the Q2 servicing export through the translation table, flag any codes that don't map (instead of guessing), and send back a short list of the unmapped rows — the row, the original code, and which field it's in — before anyone builds the upload file. Professional, three short paragraphs. Don't send — I'll review.
 ```
 
 ### Step 5 — Process-improvement note with placeholders
-Open **Process Exception — Wire Services Callback Gap** and run:
+Starting in Copilot add a forward slash and start typing in the subject **Process Exception — Wire Services Callback Gap** then select it and then copy in the prompt
 ```text
 Draft a short process-improvement note for the Change Initiatives intake based on this thread: what's happening (the second-callback step is performed but not documented), the impact (looks like a skipped control in the record), and the proposed fix (add the step to the job aid, make the system field required, re-baseline the log). Leave the frequency as [COUNT] and the period as [PERIOD] for me to fill from the training-opportunity log. Factual tone. Don't send.
 ```
