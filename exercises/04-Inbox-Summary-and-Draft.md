@@ -26,6 +26,7 @@ Copilot in Outlook works over **the mail you can open**. It **summarizes** threa
 ## Part A — Catch up and brief
 
 ### Step 1 — Catch me up
+Starting in Copilot add a forward slash and start typing in the subject **Monthly Coaching Trends — Operations Readout** then select it and then copy in the prompt
 ```text
 Catch me up on my Operations email from the last few days. Group by topic; for each give a one-line status, any deadline, and who owns the next step. Flag anything that needs a decision from me.
 ```
